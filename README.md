@@ -77,18 +77,6 @@ I care about shipping clean, well-architected software that genuinely solves pro
 
 ---
 
-## Stats
-
-<div align="center">
-
-![i3sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=i3sam&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i3sam&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)
-
-</div>
-
----
-
 ## Education
 
 - **BSc Computer Science & Software Engineering** *(2025 — Present)* — Advanced Algorithms, AI Systems, Scalable Architecture
