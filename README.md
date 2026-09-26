@@ -19,9 +19,11 @@
 
 ## About
 
-I'm a full-stack developer and founder from Bahrain, currently working as an Intern Software Developer at **INTERMID** while building my own SaaS products. I founded **Booking Service** — a booking platform for service-based businesses — and **Leadflux**, a LinkedIn content productivity tool.
+I'm a full-stack developer and founder from Bahrain, currently working as an Intern Software Developer at **INTERMID** while building my own products. I founded **Booking Service**, a booking platform for service-based businesses, and **Leadflux**, a LinkedIn content productivity tool.
 
-I care about shipping clean, well-architected software that genuinely solves problems — from ideation and design all the way to deployment and scaling.
+I also design and build websites for businesses through **[Essam Studios](https://studio.essam.biz)**: fast, animated, and bilingual in Arabic and English.
+
+I care about shipping clean, well-architected software that genuinely solves problems, from the first idea and design all the way to deployment and scaling.
 
 > 🟢 Available for freelance projects & collaborations
 
@@ -31,22 +33,46 @@ I care about shipping clean, well-architected software that genuinely solves pro
 
 | Role | Company | Period | Location |
 |------|---------|--------|----------|
-| Intern Software Developer | INTERMID | Dec 2025 — Present | 📍 Bahrain |
-| Founder & Developer | Booking Service | Jul 2025 — Present | 📍 UK, London |
-| Founder & Developer | Leadflux | Jan 2025 — Present | 📍 Bahrain |
+| Intern Software Developer | INTERMID | Dec 2025 to Present | 📍 Bahrain |
+| Founder & Developer | Booking Service | Jul 2025 to Present | 📍 UK, London |
+| Founder & Developer | Leadflux | Jan 2025 to Present | 📍 Bahrain |
 
 ---
 
 ## Projects
 
-**[Booking Service](https://essam.biz)** — The #1 booking platform for service-based businesses. Simple, flexible, and powerful online booking software.
+**[Convertly](https://getconvertly.xyz)**: A native Swift macOS app for media conversion, with a glassmorphic UI and its own marketing site.
+`macOS · Swift · 2026`
+
+**[Booking Service](https://bookingservice.cloud)**: The booking platform for service-based businesses. Simple, flexible, and powerful online booking software.
 `Live · 2025 · Founder`
 
-**[Leadflux](https://essam.biz)** — A productivity platform for professionals to plan, write, and manage LinkedIn content more efficiently.
+**[Leadflux](https://www.leadflux.xyz)**: A productivity platform for professionals to plan, write, and manage LinkedIn content more efficiently.
 `Live · 2025 · Founder`
 
-**[Flutter UI Kit Library](https://essam.biz)** — Premium production-ready Flutter UI kits for iOS & Android. Includes *ClinicCare* (Healthcare, 20+ screens) and *DriveMate* (Car Rental, 25+ screens).
+**[ShareFast](https://github.com/i3sam/ShareFast)**: Send files, photos, text, and links between any devices with a one-word link. No account, original quality, optional end-to-end encryption, and everything deletes itself when the link expires. [Try it live](https://sharefast.essam.biz).
+`Open Source · Node.js · Vercel · 2026`
+
+**[Digital 360 Framework](https://digital360framework.vercel.app)**: Concept site for INTERMID's human-centred framework for digital progress across people, business, government, academia, and society.
+`Concept · Next.js · 2026`
+
+**[Flutter UI Kit Library](https://essam.biz/library)**: Production-ready Flutter UI kits for iOS & Android, including *ClinicCare* (healthcare, 20+ screens) and *DriveMate* (car rental, 25+ screens).
 `Flutter · Dart · iOS & Android`
+
+<details>
+<summary><b>More websites</b></summary>
+<br/>
+
+- **[POST.bh](https://post.bh)**: Launch site for a Gulf digital media platform, in Arabic and English
+- **[Weyn Feedback Form](https://weynfeedbackform.vercel.app)**: Bilingual kiosk survey with an admin dashboard
+- **[Essam Studios](https://studio.essam.biz)**: My studio site, built with Three.js
+- **[Ambassador Judyth Nsababera](https://judythnsababera.vercel.app)**: Concept site for Uganda's Consul General in Guangzhou
+- **[Nexcel Consulting](https://nexcel-site.vercel.app)**: Concept site for a digital transformation consultancy
+- **[Plush By NK](https://plush-by-nk.vercel.app)**: Concept storefront with WhatsApp ordering
+- **[Dorado Restaurant](https://doradobh.vercel.app)**: Concept site for an Arabic restaurant in Bahrain
+- **[Hearth & Crumb](https://essam.biz/hearthandcrumb/)**: Concept site for a home bakery
+
+</details>
 
 ---
 
@@ -57,10 +83,13 @@ I care about shipping clean, well-architected software that genuinely solves pro
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 </div>
@@ -69,19 +98,19 @@ I care about shipping clean, well-architected software that genuinely solves pro
 
 ## Certifications
 
-- **IBM** · Artificial Intelligence Fundamentals — *Oct 2025*
-- **AWS** · Use MCP to Create AI Agents — *Oct 2025*
-- **bolt.new** · World's Largest Hackathon Participant — *Jul 2025*
-- **University of Connecticut** · Entrepreneurship Through an Abrahamic Lens — *Jun 2025*
-- **University of Connecticut** · 🥉 3rd Place, Water Consumption Analysis Hackathon — *May 2025*
+- **IBM** · Artificial Intelligence Fundamentals · *Oct 2025*
+- **AWS** · Use MCP to Create AI Agents · *Oct 2025*
+- **bolt.new** · World's Largest Hackathon Participant · *Jul 2025*
+- **University of Connecticut** · Entrepreneurship Through an Abrahamic Lens · *Jun 2025*
+- **University of Connecticut** · 🥉 3rd Place, Water Consumption Analysis Hackathon · *May 2025*
 
 ---
 
 ## Education
 
-- **BSc Computer Science & Software Engineering** *(2025 — Present)* — Advanced Algorithms, AI Systems, Scalable Architecture
-- **Advanced Mathematics & Sciences Program** *(Finished 2025)* — Calculus, Physics, Scientific Computing
-- **Al Noor International School** *(Finished 2023)* — Completed with distinction
+- **BSc Computer Science & Software Engineering** *(2025 to Present)*: Advanced Algorithms, AI Systems, Scalable Architecture
+- **Advanced Mathematics & Sciences Program** *(Finished 2025)*: Calculus, Physics, Scientific Computing
+- **Al Noor International School** *(Finished 2023)*: Completed with distinction
 
 ---
 
@@ -89,6 +118,6 @@ I care about shipping clean, well-architected software that genuinely solves pro
 
 **Let's build something together**
 
-[essam.biz](https://essam.biz) · [mohammedisaam007@gmail.com](mailto:mohammedisaam007@gmail.com) · +973 3920 9044
+[essam.biz](https://essam.biz) · [mohammedisaam007@gmail.com](mailto:mohammedisaam007@gmail.com) · +973 3768 0322
 
 </div>
