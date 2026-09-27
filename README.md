@@ -47,7 +47,7 @@ I care about shipping clean, well-architected software that genuinely solves pro
 **[Booking Service](https://bookingservice.cloud)**: The booking platform for service-based businesses. Simple, flexible, and powerful online booking software.
 `Live · 2025 · Founder`
 
-**[Leadflux](https://www.leadflux.xyz)**: A productivity platform for professionals to plan, write, and manage LinkedIn content more efficiently.
+**[Leadflux](https://leadflux.essam.biz)**: A productivity platform for professionals to plan, write, and manage LinkedIn content more efficiently.
 `Live · 2025 · Founder`
 
 **[ShareFast](https://github.com/i3sam/ShareFast)**: Send files, photos, text, and links between any devices with a one-word link. No account, original quality, optional end-to-end encryption, and everything deletes itself when the link expires. [Try it live](https://sharefast.essam.biz).
