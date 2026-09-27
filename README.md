@@ -118,6 +118,6 @@ I care about shipping clean, well-architected software that genuinely solves pro
 
 **Let's build something together**
 
-[essam.biz](https://essam.biz) · [mohammedisaam007@gmail.com](mailto:mohammedisaam007@gmail.com) · +973 3768 0322
+[essam.biz](https://essam.biz) · [mohammedisaam007@gmail.com](mailto:mohammedisaam007@gmail.com)
 
 </div>
