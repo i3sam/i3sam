@@ -53,6 +53,9 @@ I care about shipping clean, well-architected software that genuinely solves pro
 **[ShareFast](https://github.com/i3sam/ShareFast)**: Send files, photos, text, and links between any devices with a one-word link. No account, original quality, optional end-to-end encryption, and everything deletes itself when the link expires. [Try it live](https://sharefast.essam.biz).
 `Open Source · Node.js · Vercel · 2026`
 
+**[QuickPoll](https://github.com/i3sam/QuickPoll)**: Make a poll in seconds and share it with a one-word link. No sign up, live results, and a public Community feed where anyone can post and vote. [Try it live](https://quickpoll.essam.biz).
+`Open Source · Node.js · Redis · 2026`
+
 **[Digital 360 Framework](https://digital360framework.vercel.app)**: Concept site for INTERMID's human-centred framework for digital progress across people, business, government, academia, and society.
 `Concept · Next.js · 2026`
 
